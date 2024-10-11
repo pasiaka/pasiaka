@@ -1,5 +1,6 @@
 <h1>Hi, I'm Robert! <br/><a href="https://github.com/pasiaka"></a> <a href="https://www.linkedin.com/in/robert-pasiaka/">Cybersecurity Professional</a>
 
+
 <h2>👨‍💻 Experience:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
@@ -17,6 +18,17 @@
   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+ 
+
+<h2>👨‍💻 Certifications:</h2>
+
+- <b>Google Cybersecurity Certificate</b>
+  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>CompTia Security+</b>
+  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+- <b>ISC2 CC</b>
+  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
+
 
 <h2> 🤳 Connect with me:</h2>
 
